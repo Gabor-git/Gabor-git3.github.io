@@ -1,0 +1,20 @@
+div{
+  font-family: monospace;
+  font-size: 16px;
+  width: 400px;
+  background: lightgreen;
+}
+.cim{
+  font-weight: 1000;
+}
+.hosszuSzoveg{
+  Height: 150px;
+  width: 300px;
+}
+button{
+  margin: 20px 50px 5px 150px;
+  font-weight: 700;
+  font-size:16px;
+  padding: 5px;
+  width: 100px;
+}
